@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **VueJS, Flutter, ReactNative, AWS, DevOps,**
 
-- 👯 I had worked on [Balance Agriculture](http://stag.balance.ari.com.vn/)
+- 👯 I had worked on [Balance E-commerce for Agriculture](http://stag.balance.ari.com.vn/)
 
 - 🤝 I had worked on **MB Banking Internal Social Network**
 
