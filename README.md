@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **huytrannhat.900@gmail.com**
 
-- 📄 Know about my experiences [2 yoes with JS frameworks](2 yoes with JS frameworks)
+- 📄 Know about my experiences [2 yoes with JS frameworks]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
